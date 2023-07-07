@@ -1,25 +1,25 @@
-# Todo-list-node.js
-<img src="img/todo-list.jpg" alt="Un todo list
+# todo-list-node.js
+<img src="img/todo-list.jpg" alt="A todo list
 ">
-## Instalacion
- 1. puesdes clonar este repositorio: git@github.com:heisemberghuxley/todo-list-node.js.git
+## Installation
+ 1. so you can clone this repository: git@github.com:heisemberghuxley/todo-list-node.js.git
  
-## Descripcion
+## Description
 
-Esta es una API de un todo list desarrollada con Express.js que permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en un model que Está diseñado con un enfoque académico para que los aprendices de programación backend puedan utilizarlo como punto de partida y comenzar a trabajar sobre él.
+This is a todo list API developed with Express.js that allows to perform CRUD (Create, Read, Update, Delete) operations on a model that is designed with an academic approach so that backend programming trainees can use it as a starting point and start working on it.
 
-## aaceder desde react ala aplicacion
-2. para accaeder a este todo list: en la terminal parado desde la carpeta server en terminal de git bash ejecutando el comando npm start y luego en la terminal del cmd para desde la carpeta cd todo-list-todo-list igualmente ejecutando el comando npm start 
+## to access from react to the application
+2. to access this todo-list: in the terminal stop from the server folder in git bash terminal by running the command npm start and then in the cmd terminal stop from the cd todo-list-todo-list folder also by running the command npm start. 
 
-3.puedes eliminar, actualizar y agregar, desde los botones update delete, y add
+3. you can delete, update and add, from the update delete, and add buttons.
 
-4. debes crear una cuenta de atlas y conectarla con la app en ese caso debes cambairle la contraseña y el usuario, en el archivo .env borras <loque este aca> y pones tu contraseña
+4. you must create an atlas account and connect it with the app in that case you must change the password and the user, in the .env file you delete <what's here> and put your password
 
-4.puedes verificar lo que esta actualizado o eliminado desde tu cuenta de atlas
+4. you can check what is updated or deleted from your atlas account.
 
-5. tambien puedes probar desde postman
+5. you can also try from postman
 
-## Tecnologias utilizadas
+## Technologies used
 -Node
 -Javascript
 -Express
@@ -30,5 +30,5 @@ Esta es una API de un todo list desarrollada con Express.js que permite realizar
 -react
 
 
-## Contacto 
-puesde contactarme amo correo si tines dudas o quieres desarrolar le mismo proyecto en(elhuxley277@gmail.com)
+## Contact 
+you can contact me by mail if you have questions or want to develop the same project at(elhuxley277@gmail.com)
