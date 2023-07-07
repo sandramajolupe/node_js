@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import {useState, useEffect} from "react";
+=======
+import react, {useState, useEffect} from "react";
+>>>>>>> 16a56bb (updating readme)
 import axios from "axios";
 import './App.css';
 
