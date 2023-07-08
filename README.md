@@ -1,8 +1,8 @@
 # todo-list-node.js
-<img src="img/todo-list.jpg" alt="A todo list
+<img src="img/api.webp" alt="A todo list
 ">
 ## Installation
- 1. so you can clone this repository: git@github.com:heisemberghuxley/todo-list-node.js.git
+ 1. so you can clone this repository: https://github.com/heisemberghuxley/todo-list-node.js.git
  
 ## Description
 
@@ -31,4 +31,4 @@ This is a todo list API developed with Express.js that allows to perform CRUD (C
 
 
 ## Contact 
-you can contact me by mail if you have questions or want to develop the same project at(elhuxley277@gmail.com)# node_js
+you can contact me by mail if you have questions or want to develop the same project at(samionli_16@hotmail.com)# node_js
