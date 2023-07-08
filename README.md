@@ -2,7 +2,7 @@
 <img src="img/api.webp" alt="A todo list
 ">
 ## Installation
- 1. so you can clone this repository: https://github.com/heisemberghuxley/todo-list-node.js.git
+ 1. so you can clone this repository: https://github.com/sandramajolupe/node_js.git
  
 ## Description
 
